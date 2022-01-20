@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently learning machine learning and python
 - 💞️ I’m looking to collaborate on machine learning and deep learning
-- 📫 How to reach me yashawanthagowda@gmail.com
+- 📫 Reach me yashawanthagowda@gmail.com
 
 <!---
 Yashawantha/Yashawantha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
