@@ -1,7 +1,8 @@
 <img src = "https://github.com/Yashawantha/Yashawantha/blob/main/images/Yashawantha.jpg" height = 300 width = 100%><img>
 
+# Brief Profile Information 
 
-I am ***Yashawantha K M*** and I am a ***Data Analyst*** enthusiast. I have insights into ***Excel,Power BI, SQL, Python and Machine Learning*** and I am extending myself towards ***Machine Learning and Cloud***. 
+I am ***Yashawantha K M*** and I am a ***Data Analyst***  and **Data science** enthusiast. I have insights into ***Excel,Power BI, SQL, Python and Machine Learning*** and I am extending myself towards ***Machine Learning and Cloud***.I Live in Bengaluru. 
 
 
 
