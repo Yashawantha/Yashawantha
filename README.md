@@ -2,9 +2,9 @@
 
 # Brief Profile Information 
 
-I am ***Yashawantha K M*** and I am a ***Data Analyst***  and **Data science** enthusiast. 
+I am ***Yashawantha K M*** and I am a ***Data Analyst***  and **Business Analyst** further I am extending my skills in **Machine learining** and **Data Science**. 
 
-I have insights into ***Excel,Power BI, SQL, Python and Machine Learning*** and I am extending myself towards ***Machine Learning and Cloud***.
+I have Siognificant knowlegede and work experience in  ***Excel,Power BI, SQL(HIVE,MYSQL,MSSQL),Python and Machine Learning*** and I am extending myself towards ***Business Analytics and Machine Learning ***.
 
 I Live in Bengaluru. 
 
