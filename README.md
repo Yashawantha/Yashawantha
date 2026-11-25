@@ -3,11 +3,18 @@
 
 # Brief Profile Information 
 
-I am ***Yashawantha K M*** and I am a ***Data Analyst***  and **Business Analyst** further I am extending my skills in **Machine learining** and **Data Science**. 
+I'm a Senior Analytics Engineer with 7+ years of experience turning complex data into reliable pipelines, insightful BI, and measurable outcomes across semiconductor engineering, telecommunications, and e-commerce. 
 
-I have Significant knowlegede and work experience in  ***Excel,Power BI, SQL(HIVE,MYSQL,MSSQL),Python and Machine Learning*** and I am extending myself towards ***Business Analytics and Machine Learning***.
 
-I Live in Bengaluru. 
+At Tech Mahindra, I build Power BI and project-tracking solutions for Lam Research. I automated resource-allocation reporting, reducing manual effort by about 60% (around three hours per week).
+
+For Rogers Communications, I delivered Azure Databricks/PySpark pipelines and Snowflake analytics. For Flipkart, I developed fraud, compliance, and supply-chain analytics.
+
+**Core tools:** SQL, Python, PySpark, Azure Databricks, Azure Data Factory, Snowflake, BigQuery, and Power BI. I also work across data modeling, governance, stakeholder requirements, and production support.
+
+**Research:** Ph.D. in Chemical Engineering from NIT Warangal, with 15+ peer-reviewed publications applying statistical modeling and analytics.
+
+Based in Bengaluru, India; interested in analytics engineering, business intelligence, and supply-chain and operations analytics.
 
 
 
