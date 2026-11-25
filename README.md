@@ -1,4 +1,5 @@
-<img src = "https://github.com/Yashawantha/Yashawantha/blob/main/images/Yashawantha.jpg" height = 300 width = 100%><img>
+<img width="1365" height="768" alt="Turning Data into Business Impact" src="https://github.com/user-attachments/assets/835c270c-c448-41a7-9d35-5cd6186a87d7" />
+
 
 # Brief Profile Information 
 
